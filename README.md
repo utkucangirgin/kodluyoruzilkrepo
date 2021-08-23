@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![github](figures/ilkrepo.png)
 
 ## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan adlığınız link gelecek)
+Öncelikle projeyi clone'layın. (Buraya sizin reponuzdan adlığınız link gelecek)
 
 ```                        
 git clone https://github.com/utkucangirgin/kodluyoruzilkrepo.git
