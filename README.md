@@ -20,7 +20,7 @@ code .
 ```
 
 ## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi belirten bir konu açınız.
+Pull request'ler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi belirten bir konu açınız.
 
 ## License
 [MIT](https://choosealicense.com/license/mit)
